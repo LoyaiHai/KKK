@@ -47,7 +47,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.lhs.mylibrary' //groupId 随便取
                 artifactId = 'mylibrary'  //artifactId 随便取
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
